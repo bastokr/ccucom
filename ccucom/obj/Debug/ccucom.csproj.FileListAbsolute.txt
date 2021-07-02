@@ -1,0 +1,15 @@
+D:\dev\c-project\ccucom\ccucom\bin\Debug\ccucom.exe.config
+D:\dev\c-project\ccucom\ccucom\bin\Debug\ccucom.exe
+D:\dev\c-project\ccucom\ccucom\bin\Debug\ccucom.pdb
+D:\dev\c-project\ccucom\ccucom\obj\Debug\ccucom.csprojAssemblyReference.cache
+D:\dev\c-project\ccucom\ccucom\obj\Debug\MainWindow.g.cs
+D:\dev\c-project\ccucom\ccucom\obj\Debug\App.g.cs
+D:\dev\c-project\ccucom\ccucom\obj\Debug\ccucom_MarkupCompile.cache
+D:\dev\c-project\ccucom\ccucom\obj\Debug\ccucom_MarkupCompile.lref
+D:\dev\c-project\ccucom\ccucom\obj\Debug\MainWindow.baml
+D:\dev\c-project\ccucom\ccucom\obj\Debug\ccucom.g.resources
+D:\dev\c-project\ccucom\ccucom\obj\Debug\ccucom.Properties.Resources.resources
+D:\dev\c-project\ccucom\ccucom\obj\Debug\ccucom.csproj.GenerateResource.cache
+D:\dev\c-project\ccucom\ccucom\obj\Debug\ccucom.csproj.CoreCompileInputs.cache
+D:\dev\c-project\ccucom\ccucom\obj\Debug\ccucom.exe
+D:\dev\c-project\ccucom\ccucom\obj\Debug\ccucom.pdb
